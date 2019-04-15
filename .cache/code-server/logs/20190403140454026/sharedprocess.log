@@ -1,0 +1,48 @@
+[2019-04-03 14:04:56.785] [sharedprocess] [info] main {"machineId":"1"}
+[2019-04-03 14:04:56.887] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-03 14:04:56.930] [sharedprocess] [info] Scanned system extensions: 71
+[2019-04-03 14:05:38.359] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-04-03 14:06:35.651] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-03 14:06:35.690] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-03 14:06:35.747] [sharedprocess] [info] Scanned system extensions: 71
+[2019-04-03 14:06:35.753] [sharedprocess] [info] Scanned system extensions: 71
+[2019-04-03 14:06:57.218] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-03 14:11:57.626] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-03 14:12:18.527] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-03 14:12:18.580] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-03 14:12:18.743] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-03 14:12:18.779] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-03 14:12:18.779] [sharedprocess] [info] Scanned system extensions: 71
+[2019-04-03 14:12:18.784] [sharedprocess] [info] Scanned system extensions: 71
+[2019-04-03 14:12:18.789] [sharedprocess] [info] Scanned system extensions: 71
+[2019-04-03 14:12:35.771] [sharedprocess] [info] Installing extension: ritwickdey.liveserver
+[2019-04-03 14:12:35.776] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-03 14:12:36.622] [sharedprocess] [info] Downloaded extension: ritwickdey.liveserver /tmp/d2345789-8205-4660-8b55-4b0ae9fcc7e9
+[2019-04-03 14:12:38.118] [sharedprocess] [info] Extracted extension to /root/.local/share/code-server/extensions/.ritwickdey.liveserver-5.5.1: ritwickdey.liveserver
+[2019-04-03 14:12:38.119] [sharedprocess] [info] Renamed to /root/.local/share/code-server/extensions/ritwickdey.liveserver-5.5.1
+[2019-04-03 14:12:38.121] [sharedprocess] [info] Installation completed. ritwickdey.liveserver
+[2019-04-03 14:12:38.163] [sharedprocess] [info] Extensions installed successfully: ritwickdey.liveserver
+[2019-04-03 14:16:58.140] [sharedprocess] [info] Scanned user extensions: 1
+[2019-04-03 14:18:00.559] [sharedprocess] [info] Scanned user extensions: 1
+[2019-04-03 14:18:00.560] [sharedprocess] [info] Scanned user extensions: 1
+[2019-04-03 14:18:00.577] [sharedprocess] [info] Scanned system extensions: 71
+[2019-04-03 14:18:00.584] [sharedprocess] [info] Scanned system extensions: 71
+[2019-04-03 14:18:06.071] [sharedprocess] [info] Scanned user extensions: 1
+[2019-04-03 14:21:11.116] [sharedprocess] [info] Installing extension: vscodevim.vim
+[2019-04-03 14:21:11.222] [sharedprocess] [info] Scanned user extensions: 1
+[2019-04-03 14:21:14.444] [sharedprocess] [info] Downloaded extension: vscodevim.vim /tmp/2a8d0a21-92bb-4b3d-ba46-038c6cb274f8
+[2019-04-03 14:21:19.738] [sharedprocess] [info] Extracted extension to /root/.local/share/code-server/extensions/.vscodevim.vim-1.0.8: vscodevim.vim
+[2019-04-03 14:21:19.738] [sharedprocess] [info] Renamed to /root/.local/share/code-server/extensions/vscodevim.vim-1.0.8
+[2019-04-03 14:21:19.743] [sharedprocess] [info] Installation completed. vscodevim.vim
+[2019-04-03 14:21:19.803] [sharedprocess] [info] Extensions installed successfully: vscodevim.vim
+[2019-04-03 14:21:58.706] [sharedprocess] [info] Scanned user extensions: 2
+[2019-04-03 14:22:06.281] [sharedprocess] [info] Scanned user extensions: 2
+[2019-04-03 14:23:07.006] [sharedprocess] [info] Scanned user extensions: 2
+[2019-04-03 14:26:59.573] [sharedprocess] [info] Scanned user extensions: 2
+[2019-04-03 14:28:09.332] [sharedprocess] [info] Scanned user extensions: 2
+[2019-04-03 14:32:33.184] [sharedprocess] [info] Scanned user extensions: 2
+[2019-04-03 14:32:33.401] [sharedprocess] [info] Scanned system extensions: 71
+[2019-04-03 14:32:47.212] [sharedprocess] [info] Scanned user extensions: 2
+[2019-04-03 14:32:47.227] [sharedprocess] [info] Scanned system extensions: 71
+[2019-04-03 14:32:51.192] [sharedprocess] [info] Scanned user extensions: 2
+[2019-04-03 14:33:10.209] [sharedprocess] [info] Scanned user extensions: 2

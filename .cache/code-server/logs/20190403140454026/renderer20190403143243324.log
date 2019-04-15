@@ -1,0 +1,18 @@
+[2019-04-03 14:32:49.746] [renderer20190403143243324] [info] no standard startup: not just one text editor
+[2019-04-03 14:33:11.846] [renderer20190403143243324] [error] Cannot read property 'then' of null: TypeError: Cannot read property 'then' of null
+    at n.start (https://ide.coder.com/72ba31.bundle.js:60:4477776)
+    at t.<anonymous> (https://ide.coder.com/72ba31.bundle.js:60:2020161)
+    at https://ide.coder.com/72ba31.bundle.js:16:2489
+    at Object.next (https://ide.coder.com/72ba31.bundle.js:16:2594)
+    at s (https://ide.coder.com/72ba31.bundle.js:16:1365)
+[2019-04-03 14:33:47.737] [renderer20190403143243324] [error] proxy 9 disposed too early: Error: proxy 9 disposed too early
+    at r (https://ide.coder.com/72ba31.bundle.js:60:660436)
+    at Object.t.parse (https://ide.coder.com/72ba31.bundle.js:60:661003)
+    at https://ide.coder.com/72ba31.bundle.js:60:2824947
+    at https://ide.coder.com/72ba31.bundle.js:60:2858163
+    at Array.forEach (<anonymous>)
+    at e.emit (https://ide.coder.com/72ba31.bundle.js:60:2858136)
+    at e.emitFail (https://ide.coder.com/72ba31.bundle.js:60:2826384)
+    at e.<anonymous> (https://ide.coder.com/72ba31.bundle.js:60:2825617)
+    at https://ide.coder.com/72ba31.bundle.js:38:2489
+    at Object.next (https://ide.coder.com/72ba31.bundle.js:38:2594)

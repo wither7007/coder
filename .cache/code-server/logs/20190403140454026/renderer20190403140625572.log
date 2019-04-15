@@ -1,0 +1,42 @@
+[2019-04-03 14:07:21.776] [renderer20190403140625572] [info] no standard startup: not just one text editor
+[2019-04-03 14:07:21.777] [renderer20190403140625572] [error] Unable to load and parse grammar for scope source.ts from file:///home/travis/build/codercom/code-server/packages/server/build/extensions/typescript-basics/syntaxes/TypeScript.tmLanguage.json {}
+[2019-04-03 14:07:21.778] [renderer20190403140625572] [error] No grammar provided for <source.ts: Error: No grammar provided for <source.ts
+    at t.<anonymous> (https://ide.coder.com/72ba31.bundle.js:60:920026)
+    at https://ide.coder.com/72ba31.bundle.js:60:918587
+    at Object.next (https://ide.coder.com/72ba31.bundle.js:60:918692)
+    at s (https://ide.coder.com/72ba31.bundle.js:60:917469)
+[2019-04-03 14:07:21.778] [renderer20190403140625572] [error] Unable to load file:///home/travis/build/codercom/code-server/packages/server/build/extensions/theme-defaults/themes/dark_plus.json: timed out: Error: Unable to load file:///home/travis/build/codercom/code-server/packages/server/build/extensions/theme-defaults/themes/dark_plus.json: timed out
+    at https://ide.coder.com/72ba31.bundle.js:60:5663999
+    at async Promise.all (index 0)
+[2019-04-03 14:10:41.008] [renderer20190403140625572] [error] watch /projects/.vscode ENOENT: Error: watch /projects/.vscode ENOENT
+    at r (https://ide.coder.com/72ba31.bundle.js:60:660436)
+    at Object.t.parse (https://ide.coder.com/72ba31.bundle.js:60:661003)
+    at https://ide.coder.com/72ba31.bundle.js:60:2824947
+    at https://ide.coder.com/72ba31.bundle.js:60:2858163
+    at Array.forEach (<anonymous>)
+    at e.emit (https://ide.coder.com/72ba31.bundle.js:60:2858136)
+    at e.emitFail (https://ide.coder.com/72ba31.bundle.js:60:2826384)
+    at e.<anonymous> (https://ide.coder.com/72ba31.bundle.js:60:2825617)
+    at https://ide.coder.com/72ba31.bundle.js:38:2489
+    at Object.next (https://ide.coder.com/72ba31.bundle.js:38:2594)
+[2019-04-03 14:12:28.757] [renderer20190403140625572] [error] timed out: Error: timed out
+    at https://ide.coder.com/72ba31.bundle.js:60:2824786
+[2019-04-03 14:19:58.477] [renderer20190403140625572] [error] proxy 17 disposed too early: Error: proxy 17 disposed too early
+    at r (https://ide.coder.com/72ba31.bundle.js:60:660436)
+    at Object.t.parse (https://ide.coder.com/72ba31.bundle.js:60:661003)
+    at https://ide.coder.com/72ba31.bundle.js:60:2824947
+    at https://ide.coder.com/72ba31.bundle.js:60:2858163
+    at Array.forEach (<anonymous>)
+    at e.emit (https://ide.coder.com/72ba31.bundle.js:60:2858136)
+    at e.emitFail (https://ide.coder.com/72ba31.bundle.js:60:2826384)
+    at e.<anonymous> (https://ide.coder.com/72ba31.bundle.js:60:2825617)
+    at https://ide.coder.com/72ba31.bundle.js:38:2489
+    at Object.next (https://ide.coder.com/72ba31.bundle.js:38:2594)
+[2019-04-03 14:20:11.433] [renderer20190403140625572] [error] Document not active: TypeError: Document not active
+    at t.setFullScreen (https://ide.coder.com/72ba31.bundle.js:38:78741)
+    at e.toggleFullScreen (https://ide.coder.com/72ba31.bundle.js:60:3528551)
+    at t.toggleFullScreen (https://ide.coder.com/72ba31.bundle.js:60:5989139)
+    at t.run (https://ide.coder.com/72ba31.bundle.js:60:2103041)
+    at https://ide.coder.com/72ba31.bundle.js:23:96673
+[2019-04-03 14:24:03.182] [renderer20190403140625572] [error] timed out: Error: timed out
+    at https://ide.coder.com/72ba31.bundle.js:60:2824786

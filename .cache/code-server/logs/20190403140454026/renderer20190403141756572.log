@@ -1,0 +1,22 @@
+[2019-04-03 14:17:59.921] [renderer20190403141756572] [error] [FileWatcher] terminated unexpectedly and is restarted again...
+[2019-04-03 14:18:01.026] [renderer20190403141756572] [info] no standard startup: not just one text editor
+[2019-04-03 14:18:32.401] [renderer20190403141756572] [error] Unable to load and parse grammar for scope source.ts from file:///home/travis/build/codercom/code-server/packages/server/build/extensions/typescript-basics/syntaxes/TypeScript.tmLanguage.json {}
+[2019-04-03 14:18:32.403] [renderer20190403141756572] [error] No grammar provided for <source.ts: Error: No grammar provided for <source.ts
+    at t.<anonymous> (https://ide.coder.com/72ba31.bundle.js:60:920026)
+    at https://ide.coder.com/72ba31.bundle.js:60:918587
+    at Object.next (https://ide.coder.com/72ba31.bundle.js:60:918692)
+    at s (https://ide.coder.com/72ba31.bundle.js:60:917469)
+[2019-04-03 14:18:32.404] [renderer20190403141756572] [error] Unable to load file:///home/travis/build/codercom/code-server/packages/server/build/extensions/theme-defaults/themes/dark_plus.json: timed out: Error: Unable to load file:///home/travis/build/codercom/code-server/packages/server/build/extensions/theme-defaults/themes/dark_plus.json: timed out
+    at https://ide.coder.com/72ba31.bundle.js:60:5663999
+    at async Promise.all (index 0)
+[2019-04-03 14:34:48.717] [renderer20190403141756572] [error] watch /projects/.vscode ENOENT: Error: watch /projects/.vscode ENOENT
+    at r (https://ide.coder.com/72ba31.bundle.js:60:660436)
+    at Object.t.parse (https://ide.coder.com/72ba31.bundle.js:60:661003)
+    at https://ide.coder.com/72ba31.bundle.js:60:2824947
+    at https://ide.coder.com/72ba31.bundle.js:60:2858163
+    at Array.forEach (<anonymous>)
+    at e.emit (https://ide.coder.com/72ba31.bundle.js:60:2858136)
+    at e.emitFail (https://ide.coder.com/72ba31.bundle.js:60:2826384)
+    at e.<anonymous> (https://ide.coder.com/72ba31.bundle.js:60:2825617)
+    at https://ide.coder.com/72ba31.bundle.js:38:2489
+    at Object.next (https://ide.coder.com/72ba31.bundle.js:38:2594)

@@ -1,0 +1,26 @@
+[2019-04-15 15:46:30.551] [sharedprocess] [info] main {"machineId":"1"}
+[2019-04-15 15:46:30.694] [sharedprocess] [info] Scanned user extensions: 2
+[2019-04-15 15:46:30.715] [sharedprocess] [info] Scanned system extensions: 71
+[2019-04-15 15:46:31.482] [sharedprocess] [info] Scanned user extensions: 2
+[2019-04-15 15:46:31.501] [sharedprocess] [info] Scanned system extensions: 71
+[2019-04-15 15:46:32.993] [sharedprocess] [info] Installing extension: vscodevim.vim
+[2019-04-15 15:46:33.067] [sharedprocess] [info] Scanned user extensions: 2
+[2019-04-15 15:46:33.750] [sharedprocess] [info] Scanned user extensions: 2
+[2019-04-15 15:46:34.679] [sharedprocess] [info] Downloaded extension: vscodevim.vim /tmp/3015edb1-886d-4b30-b3b9-049c49e019d9
+[2019-04-15 15:46:38.104] [sharedprocess] [info] Extracted extension to /root/.local/share/code-server/extensions/.vscodevim.vim-1.4.0: vscodevim.vim
+[2019-04-15 15:46:38.104] [sharedprocess] [info] Renamed to /root/.local/share/code-server/extensions/vscodevim.vim-1.4.0
+[2019-04-15 15:46:38.106] [sharedprocess] [info] Installation completed. vscodevim.vim
+[2019-04-15 15:46:38.221] [sharedprocess] [info] Extensions installed successfully: vscodevim.vim
+[2019-04-15 15:46:43.245] [sharedprocess] [info] Scanned system extensions: 71
+[2019-04-15 15:46:43.245] [sharedprocess] [info] Scanned system extensions: 71
+[2019-04-15 15:46:43.245] [sharedprocess] [info] Scanned system extensions: 71
+[2019-04-15 15:46:43.246] [sharedprocess] [info] Scanned user extensions: 2
+[2019-04-15 15:46:43.263] [sharedprocess] [info] Scanned user extensions: 2
+[2019-04-15 15:46:43.286] [sharedprocess] [info] Scanned user extensions: 2
+[2019-04-15 15:46:43.307] [sharedprocess] [info] Scanned user extensions: 2
+[2019-04-15 15:47:12.019] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-04-15 15:51:35.282] [sharedprocess] [info] Scanned user extensions: 2
+[2019-04-15 15:56:36.275] [sharedprocess] [info] Scanned user extensions: 2
+[2019-04-15 16:01:36.515] [sharedprocess] [info] Scanned user extensions: 2
+[2019-04-15 16:06:36.694] [sharedprocess] [info] Scanned user extensions: 2
+[2019-04-15 16:11:36.849] [sharedprocess] [info] Scanned user extensions: 2

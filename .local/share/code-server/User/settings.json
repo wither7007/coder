@@ -1,0 +1,81 @@
+{
+    "prettier.semi": false,
+    "window.title": "${activeEditorLong}${separator}${rootName}",
+    // "git.path": "C:\\wsl\\wslgit.exe",
+    "files.eol": "\n",
+    "liveServer.settings.port": 8010,
+    "liveServer.settings.NoBrowser": true,
+    "editor.hover.enabled": false,
+    "editor.parameterHints.enabled": false,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "html.suggest.html5": false,
+    "workbench.colorTheme": "Visual Studio Light",
+    "explorer.confirmDelete": false,
+    "window.zoomLevel": 0,
+    "vim.insertModeKeyBindings": [{
+            "before": [
+                "j",
+                "j"
+            ],
+            "after": [
+                "<Esc>"
+            ]
+        },
+        {
+            "before": [
+                "k",
+                "k"
+            ],
+            "after": [
+                "<Esc>", "A"
+            ]
+        }
+    ],
+    "vim.normalModeKeyBindingsNonRecursive": [{
+            "before": ["<leader>", "d"],
+            "after": ["d", "d"]
+        },
+        {
+            "before": ["<C-n>"],
+            "commands": [":reg"]
+        },
+
+        {
+            "before": ["<C-h>"],
+            "after": ["<C-w>", "<C-h>"]
+        },
+        {
+            "before": ["<C-l>"],
+            "after": ["<C-w>", "<C-l>"]
+        },
+
+    ],
+
+
+    "workbench.startupEditor": "newUntitledFile",
+    "files.exclude": {
+        "**/.git": false
+    },
+    // "window.menuBarVisibility": "toggle",
+    "code-runner.executorMap": {
+        "python": "python -u $fullFileName",
+    },
+    "editor.minimap.enabled": false,
+    "workbench.activityBar.visible": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "vim.useSystemClipboard": true,
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    // "terminal.integrated.shell.windows": "C:\\WINDOWS\\sysnative\\bash.exe",
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact",
+        "vue-html": "html"
+    },
+    "editor.renderWhitespace": "all",
+    "editor.wordWrap": "on",
+    "terminal.external.windowsExec": "C:\\WINDOWS\\System32\\bash.exe",
+    "liveServer.settings.donotVerifyTags": true,
+    "debug.node.autoAttach": "on",
+    "editor.renderControlCharacters": true,
+    "python.dataScience.sendSelectionToInteractiveWindow": true,
+    "editor.lineNumbers": "on"
+}
